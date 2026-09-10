@@ -2,7 +2,7 @@
 
 I am Vinícius Hasse and I am currently studying Computer Science at UFPR
 
-## 🌐 Socials
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viniciushasse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassevini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassevini@gmail.com) 
 
 ## 💻 Tech Stack:
